@@ -1,10 +1,9 @@
 package CondicionaisTestes;
 
 import org.junit.Test;
-import org.junit.jupiter.api.Assumptions;
 import org.junit.jupiter.api.condition.*;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 public class CondicionaisTeste {
 
