@@ -1,4 +1,4 @@
-package AssertionsTeste;
+package AssertionsTestes;
 
 import com.dio.dioProjects_BootCamp.Pessoa;
 import org.junit.Test;
